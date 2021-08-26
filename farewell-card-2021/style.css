@@ -42,18 +42,6 @@ div.fadeIn p {
     display: inline-block;
 }
 
-/* @media screen and (min-width: 601px) {
-    h1.fadeIn span {
-      font-size: 50px;
-    }
-  }
-  
-  @media screen and (max-width: 600px) {
-    h1.fadeIn span {
-      font-size: 30px;
-    }
-  } */
-
 @keyframes fadeIn {
     0% {
         opacity: 0;

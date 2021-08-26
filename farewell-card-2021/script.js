@@ -2,6 +2,10 @@
 //     console.log('[callback] particles.js config loaded');
 // });
 
+window.onload = setTimeout(function(){
+    alert('Try touching the snows... :)');
+}, 3000);
+
 particlesJS("particles-js", {
     "particles": {
         "number": {
