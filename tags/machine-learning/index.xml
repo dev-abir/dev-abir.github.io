@@ -9,11 +9,11 @@
       <link>https://dev-abir.github.io/cropped.jpeg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dev-abir.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dev-abir.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI plays-python</title>
       <link>https://dev-abir.github.io/projects/aiplays-python/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://dev-abir.github.io/projects/aiplays-python/</guid>
       <description>A simple flappy bird game, written in Python, where the player is AI.</description>
@@ -22,7 +22,7 @@
     <item>
       <title>chlorophyll</title>
       <link>https://dev-abir.github.io/projects/chlorophyll/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://dev-abir.github.io/projects/chlorophyll/</guid>
       <description>A simple Plant disease detector APP, using image classification (Machine Learning) technique.</description>

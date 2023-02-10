@@ -9,11 +9,11 @@
       <link>https://dev-abir.github.io/cropped.jpeg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dev-abir.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dev-abir.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI plays-python</title>
       <link>https://dev-abir.github.io/projects/aiplays-python/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://dev-abir.github.io/projects/aiplays-python/</guid>
       <description>A simple flappy bird game, written in Python, where the player is AI.</description>
@@ -22,7 +22,7 @@
     <item>
       <title>ChitChat</title>
       <link>https://dev-abir.github.io/projects/chitchat/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://dev-abir.github.io/projects/chitchat/</guid>
       <description>A simple chat application, with chat rooms.</description>
@@ -31,7 +31,7 @@
     <item>
       <title>chlorophyll</title>
       <link>https://dev-abir.github.io/projects/chlorophyll/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://dev-abir.github.io/projects/chlorophyll/</guid>
       <description>A simple Plant disease detector APP, using image classification (Machine Learning) technique.</description>
@@ -40,16 +40,16 @@
     <item>
       <title>Currency Exchange</title>
       <link>https://dev-abir.github.io/projects/currency-exchange/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://dev-abir.github.io/projects/currency-exchange/</guid>
-      <description>A simple react app, mainly to learn react, [mui](https://mui.com/) and css.</description>
+      <description>A simple react app, mainly to learn react, mui and css.</description>
     </item>
     
     <item>
       <title>multiplayer_tic_tac_toe</title>
       <link>https://dev-abir.github.io/projects/multiplayer_tic_tac_toe/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://dev-abir.github.io/projects/multiplayer_tic_tac_toe/</guid>
       <description>A simple multiplayer tic-tac-toe game, in flask.</description>
@@ -58,7 +58,7 @@
     <item>
       <title>quiz</title>
       <link>https://dev-abir.github.io/projects/quiz/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://dev-abir.github.io/projects/quiz/</guid>
       <description>A simple quiz app in React Native and TypeScript</description>
