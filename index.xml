@@ -5,75 +5,118 @@
     <link>https://dev-abir.github.io/</link>
     <description>Recent content on Abir Ganguly | Portfolio</description>
     <image>
+      <title>Abir Ganguly | Portfolio</title>
       <url>https://dev-abir.github.io/cropped.jpeg</url>
       <link>https://dev-abir.github.io/cropped.jpeg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dev-abir.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI plays-python</title>
-      <link>https://dev-abir.github.io/projects/aiplays-python/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/projects/aiplays-python/</guid>
-      <description>A simple flappy bird game, written in Python, where the player is AI.</description>
-    </item>
-    
-    <item>
-      <title>ChitChat</title>
-      <link>https://dev-abir.github.io/projects/chitchat/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/projects/chitchat/</guid>
-      <description>A simple chat application, with chat rooms.</description>
-    </item>
-    
-    <item>
-      <title>chlorophyll</title>
-      <link>https://dev-abir.github.io/projects/chlorophyll/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/projects/chlorophyll/</guid>
-      <description>A simple Plant disease detector APP, using image classification (Machine Learning) technique.</description>
-    </item>
-    
-    <item>
-      <title>Currency Exchange</title>
-      <link>https://dev-abir.github.io/projects/currency-exchange/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/projects/currency-exchange/</guid>
-      <description>A simple react app, mainly to learn react, mui and css.</description>
-    </item>
-    
-    <item>
-      <title>multiplayer_tic_tac_toe</title>
-      <link>https://dev-abir.github.io/projects/multiplayer_tic_tac_toe/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/projects/multiplayer_tic_tac_toe/</guid>
-      <description>A simple multiplayer tic-tac-toe game, in flask.</description>
-    </item>
-    
-    <item>
-      <title>quiz</title>
-      <link>https://dev-abir.github.io/projects/quiz/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/projects/quiz/</guid>
-      <description>A simple quiz app in React Native and TypeScript</description>
-    </item>
-    
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Jun 2024 11:38:41 +0530</lastBuildDate>
+    <atom:link href="https://dev-abir.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experience</title>
       <link>https://dev-abir.github.io/experience/</link>
-      <pubDate>Thu, 09 Feb 2023 21:29:28 +0530</pubDate>
-      
+      <pubDate>Sat, 15 Jun 2024 11:38:41 +0530</pubDate>
       <guid>https://dev-abir.github.io/experience/</guid>
-      <description>Still a lot to learn... 🙂</description>
+      <description>Small steps for big changes...</description>
     </item>
-    
-    
-    
+    <item>
+      <title>Spring boot JWT authentication (auth0) with Swagger docs (springdoc)</title>
+      <link>https://dev-abir.github.io/blogs/spring-boot-jwt-authentication-auth0-with-swagger-docs-springdoc/</link>
+      <pubDate>Wed, 29 May 2024 17:15:44 +0000</pubDate>
+      <guid>https://dev-abir.github.io/blogs/spring-boot-jwt-authentication-auth0-with-swagger-docs-springdoc/</guid>
+      <description>Why?   This is yet-another-spring-boot-jwt-tutorial. It has 2 main motives:   To understand...</description>
+    </item>
+    <item>
+      <title>My experience with a headless CMS (Strapi)</title>
+      <link>https://dev-abir.github.io/blogs/my-experience-with-a-headless-cms-strapi/</link>
+      <pubDate>Mon, 29 Jan 2024 16:54:52 +0000</pubDate>
+      <guid>https://dev-abir.github.io/blogs/my-experience-with-a-headless-cms-strapi/</guid>
+      <description>I was approached by my friend to develop a E-commerce site for his book publishing business. I was...</description>
+    </item>
+    <item>
+      <title>Rasoi</title>
+      <link>https://dev-abir.github.io/projects/rasoi/</link>
+      <pubDate>Fri, 03 Nov 2023 14:05:19 +0000</pubDate>
+      <guid>https://dev-abir.github.io/projects/rasoi/</guid>
+      <description>A social media for recipes 🍳.</description>
+    </item>
+    <item>
+      <title>404: Not Found</title>
+      <link>https://dev-abir.github.io/projects/portfolio/</link>
+      <pubDate>Thu, 09 Feb 2023 19:02:55 +0000</pubDate>
+      <guid>https://dev-abir.github.io/projects/portfolio/</guid>
+      <description>This is my portfolio.</description>
+    </item>
+    <item>
+      <title>chlorophyll</title>
+      <link>https://dev-abir.github.io/projects/chlorophyll/</link>
+      <pubDate>Thu, 17 Nov 2022 14:46:15 +0000</pubDate>
+      <guid>https://dev-abir.github.io/projects/chlorophyll/</guid>
+      <description>A simple Plant disease detector APP, using image classification (Machine Learning) technique.</description>
+    </item>
+    <item>
+      <title>sonic</title>
+      <link>https://dev-abir.github.io/projects/sonic/</link>
+      <pubDate>Mon, 18 Jul 2022 15:20:01 +0000</pubDate>
+      <guid>https://dev-abir.github.io/projects/sonic/</guid>
+      <description>A super fast code judging system, which compiles and runs programs locally.</description>
+    </item>
+    <item>
+      <title>quiz</title>
+      <link>https://dev-abir.github.io/projects/quiz/</link>
+      <pubDate>Tue, 12 Apr 2022 07:53:18 +0000</pubDate>
+      <guid>https://dev-abir.github.io/projects/quiz/</guid>
+      <description>A simple quiz app in React Native and TypeScript</description>
+    </item>
+    <item>
+      <title>ChitChat</title>
+      <link>https://dev-abir.github.io/projects/chitchat/</link>
+      <pubDate>Sat, 08 Jan 2022 06:19:17 +0000</pubDate>
+      <guid>https://dev-abir.github.io/projects/chitchat/</guid>
+      <description>A simple chat application, with chat rooms.</description>
+    </item>
+    <item>
+      <title>Currency Exchange</title>
+      <link>https://dev-abir.github.io/projects/currency-exchange/</link>
+      <pubDate>Sat, 18 Dec 2021 13:35:01 +0000</pubDate>
+      <guid>https://dev-abir.github.io/projects/currency-exchange/</guid>
+      <description>A simple react app, mainly to learn react, mui and css.</description>
+    </item>
+    <item>
+      <title>AI plays-python</title>
+      <link>https://dev-abir.github.io/projects/aiplays-python/</link>
+      <pubDate>Tue, 09 Nov 2021 16:17:59 +0000</pubDate>
+      <guid>https://dev-abir.github.io/projects/aiplays-python/</guid>
+      <description>A simple flappy bird game, written in Python, where the player is AI.</description>
+    </item>
+    <item>
+      <title>spaceapps-2021</title>
+      <link>https://dev-abir.github.io/projects/spaceapps-2021/</link>
+      <pubDate>Sat, 02 Oct 2021 05:52:08 +0000</pubDate>
+      <guid>https://dev-abir.github.io/projects/spaceapps-2021/</guid>
+      <description>Code repository for the NASA Space Apps challenge 2021</description>
+    </item>
+    <item>
+      <title>snake</title>
+      <link>https://dev-abir.github.io/projects/snake/</link>
+      <pubDate>Sat, 30 May 2020 15:31:32 +0000</pubDate>
+      <guid>https://dev-abir.github.io/projects/snake/</guid>
+      <description>A simple Snake game in C&#43;&#43;, using the SFML library.</description>
+    </item>
+    <item>
+      <title>gameOfLifeJS</title>
+      <link>https://dev-abir.github.io/projects/gameoflifejs/</link>
+      <pubDate>Tue, 26 May 2020 08:28:45 +0000</pubDate>
+      <guid>https://dev-abir.github.io/projects/gameoflifejs/</guid>
+      <description>The Conway&amp;#39;s_Game_of_Life in Javascript.</description>
+    </item>
+    <item>
+      <title>tanks</title>
+      <link>https://dev-abir.github.io/projects/tanks/</link>
+      <pubDate>Thu, 02 Apr 2020 07:00:44 +0000</pubDate>
+      <guid>https://dev-abir.github.io/projects/tanks/</guid>
+      <description>A simple tanks war game, written in GO.</description>
+    </item>
   </channel>
 </rss>

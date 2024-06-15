@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>image-classification on Abir Ganguly | Portfolio</title>
+    <title>Image-Classification on Abir Ganguly | Portfolio</title>
     <link>https://dev-abir.github.io/tags/image-classification/</link>
-    <description>Recent content in image-classification on Abir Ganguly | Portfolio</description>
+    <description>Recent content in Image-Classification on Abir Ganguly | Portfolio</description>
     <image>
+      <title>Abir Ganguly | Portfolio</title>
       <url>https://dev-abir.github.io/cropped.jpeg</url>
       <link>https://dev-abir.github.io/cropped.jpeg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dev-abir.github.io/tags/image-classification/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Nov 2022 14:46:15 +0000</lastBuildDate>
+    <atom:link href="https://dev-abir.github.io/tags/image-classification/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>chlorophyll</title>
       <link>https://dev-abir.github.io/projects/chlorophyll/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Thu, 17 Nov 2022 14:46:15 +0000</pubDate>
       <guid>https://dev-abir.github.io/projects/chlorophyll/</guid>
       <description>A simple Plant disease detector APP, using image classification (Machine Learning) technique.</description>
     </item>
-    
   </channel>
 </rss>

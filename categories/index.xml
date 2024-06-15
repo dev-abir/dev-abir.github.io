@@ -5,9 +5,12 @@
     <link>https://dev-abir.github.io/categories/</link>
     <description>Recent content in Categories on Abir Ganguly | Portfolio</description>
     <image>
+      <title>Abir Ganguly | Portfolio</title>
       <url>https://dev-abir.github.io/cropped.jpeg</url>
       <link>https://dev-abir.github.io/cropped.jpeg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://dev-abir.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en</language>
+    <atom:link href="https://dev-abir.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

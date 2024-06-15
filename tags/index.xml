@@ -5,334 +5,349 @@
     <link>https://dev-abir.github.io/tags/</link>
     <description>Recent content in Tags on Abir Ganguly | Portfolio</description>
     <image>
+      <title>Abir Ganguly | Portfolio</title>
       <url>https://dev-abir.github.io/cropped.jpeg</url>
       <link>https://dev-abir.github.io/cropped.jpeg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dev-abir.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Jun 2024 11:38:41 +0530</lastBuildDate>
+    <atom:link href="https://dev-abir.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>css</title>
-      <link>https://dev-abir.github.io/tags/css/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>https://dev-abir.github.io/tags/deep-learning/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>django</title>
-      <link>https://dev-abir.github.io/tags/django/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/django/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>django-channels</title>
-      <link>https://dev-abir.github.io/tags/django-channels/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/django-channels/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>django-channels-framework</title>
-      <link>https://dev-abir.github.io/tags/django-channels-framework/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/django-channels-framework/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>expo</title>
-      <link>https://dev-abir.github.io/tags/expo/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/expo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>flask</title>
-      <link>https://dev-abir.github.io/tags/flask/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/flask/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>flutter</title>
-      <link>https://dev-abir.github.io/tags/flutter/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/flutter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>framer-motion</title>
-      <link>https://dev-abir.github.io/tags/framer-motion/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/framer-motion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>image-classification</title>
-      <link>https://dev-abir.github.io/tags/image-classification/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/image-classification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>javascript</title>
-      <link>https://dev-abir.github.io/tags/javascript/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine-learning</title>
-      <link>https://dev-abir.github.io/tags/machine-learning/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mobile-app</title>
-      <link>https://dev-abir.github.io/tags/mobile-app/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/mobile-app/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mui</title>
-      <link>https://dev-abir.github.io/tags/mui/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/mui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multiplatform</title>
-      <link>https://dev-abir.github.io/tags/multiplatform/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/multiplatform/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multiplayer</title>
-      <link>https://dev-abir.github.io/tags/multiplayer/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/multiplayer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multiplayer-game</title>
-      <link>https://dev-abir.github.io/tags/multiplayer-game/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/multiplayer-game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural-network</title>
-      <link>https://dev-abir.github.io/tags/neural-network/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/neural-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural-networks</title>
-      <link>https://dev-abir.github.io/tags/neural-networks/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plant-disease</title>
-      <link>https://dev-abir.github.io/tags/plant-disease/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/plant-disease/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plant-disease-detection</title>
-      <link>https://dev-abir.github.io/tags/plant-disease-detection/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/plant-disease-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://dev-abir.github.io/tags/python/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>react</title>
-      <link>https://dev-abir.github.io/tags/react/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/react/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>react-native</title>
-      <link>https://dev-abir.github.io/tags/react-native/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/react-native/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reactjs</title>
-      <link>https://dev-abir.github.io/tags/reactjs/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/reactjs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>recurrent-neural-network</title>
-      <link>https://dev-abir.github.io/tags/recurrent-neural-network/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/recurrent-neural-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>recurrent-neural-networks</title>
-      <link>https://dev-abir.github.io/tags/recurrent-neural-networks/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/recurrent-neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tailwindcss</title>
-      <link>https://dev-abir.github.io/tags/tailwindcss/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/tailwindcss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tensorflow</title>
-      <link>https://dev-abir.github.io/tags/tensorflow/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/tensorflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tictactoe</title>
-      <link>https://dev-abir.github.io/tags/tictactoe/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/tictactoe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tictactoe-python</title>
-      <link>https://dev-abir.github.io/tags/tictactoe-python/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/tictactoe-python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>typescript</title>
-      <link>https://dev-abir.github.io/tags/typescript/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/typescript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>web-app</title>
-      <link>https://dev-abir.github.io/tags/web-app/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/web-app/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>web-application</title>
-      <link>https://dev-abir.github.io/tags/web-application/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/web-application/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>websockets</title>
-      <link>https://dev-abir.github.io/tags/websockets/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dev-abir.github.io/tags/websockets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>experience</title>
+      <title>Experience</title>
       <link>https://dev-abir.github.io/tags/experience/</link>
-      <pubDate>Thu, 09 Feb 2023 21:29:28 +0530</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dev-abir.github.io/tags/experience/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Java</title>
+      <link>https://dev-abir.github.io/tags/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Springboot</title>
+      <link>https://dev-abir.github.io/tags/springboot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/springboot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Springsecurity</title>
+      <link>https://dev-abir.github.io/tags/springsecurity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/springsecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webdev</title>
+      <link>https://dev-abir.github.io/tags/webdev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/webdev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>https://dev-abir.github.io/tags/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nextjs</title>
+      <link>https://dev-abir.github.io/tags/nextjs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/nextjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strapi</title>
+      <link>https://dev-abir.github.io/tags/strapi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/strapi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flutter</title>
+      <link>https://dev-abir.github.io/tags/flutter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/flutter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Image-Classification</title>
+      <link>https://dev-abir.github.io/tags/image-classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/image-classification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine-Learning</title>
+      <link>https://dev-abir.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plant-Disease</title>
+      <link>https://dev-abir.github.io/tags/plant-disease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/plant-disease/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plant-Disease-Detection</title>
+      <link>https://dev-abir.github.io/tags/plant-disease-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/plant-disease-detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tensorflow</title>
+      <link>https://dev-abir.github.io/tags/tensorflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Expo</title>
+      <link>https://dev-abir.github.io/tags/expo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/expo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobile-App</title>
+      <link>https://dev-abir.github.io/tags/mobile-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/mobile-app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multiplatform</title>
+      <link>https://dev-abir.github.io/tags/multiplatform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/multiplatform/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React-Native</title>
+      <link>https://dev-abir.github.io/tags/react-native/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/react-native/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Typescript</title>
+      <link>https://dev-abir.github.io/tags/typescript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/typescript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web-App</title>
+      <link>https://dev-abir.github.io/tags/web-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/web-app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web-Application</title>
+      <link>https://dev-abir.github.io/tags/web-application/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/web-application/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Django</title>
+      <link>https://dev-abir.github.io/tags/django/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/django/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Django-Channels</title>
+      <link>https://dev-abir.github.io/tags/django-channels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/django-channels/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Django-Channels-Framework</title>
+      <link>https://dev-abir.github.io/tags/django-channels-framework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/django-channels-framework/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Framer-Motion</title>
+      <link>https://dev-abir.github.io/tags/framer-motion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/framer-motion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://dev-abir.github.io/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>https://dev-abir.github.io/tags/react/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reactjs</title>
+      <link>https://dev-abir.github.io/tags/reactjs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/reactjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tailwindcss</title>
+      <link>https://dev-abir.github.io/tags/tailwindcss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/tailwindcss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>https://dev-abir.github.io/tags/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mui</title>
+      <link>https://dev-abir.github.io/tags/mui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/mui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep-Learning</title>
+      <link>https://dev-abir.github.io/tags/deep-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neural-Network</title>
+      <link>https://dev-abir.github.io/tags/neural-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/neural-network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neural-Networks</title>
+      <link>https://dev-abir.github.io/tags/neural-networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/neural-networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recurrent-Neural-Network</title>
+      <link>https://dev-abir.github.io/tags/recurrent-neural-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/recurrent-neural-network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recurrent-Neural-Networks</title>
+      <link>https://dev-abir.github.io/tags/recurrent-neural-networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/recurrent-neural-networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cpp</title>
+      <link>https://dev-abir.github.io/tags/cpp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/cpp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game</title>
+      <link>https://dev-abir.github.io/tags/game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game-Development</title>
+      <link>https://dev-abir.github.io/tags/game-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/game-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sfml</title>
+      <link>https://dev-abir.github.io/tags/sfml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/sfml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snake-Game</title>
+      <link>https://dev-abir.github.io/tags/snake-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/snake-game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2d-Game</title>
+      <link>https://dev-abir.github.io/tags/2d-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/2d-game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game-Dev</title>
+      <link>https://dev-abir.github.io/tags/game-dev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/game-dev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>https://dev-abir.github.io/tags/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golang</title>
+      <link>https://dev-abir.github.io/tags/golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pixel-Game-Engine</title>
+      <link>https://dev-abir.github.io/tags/pixel-game-engine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/pixel-game-engine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tank-War</title>
+      <link>https://dev-abir.github.io/tags/tank-war/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/tank-war/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tanks-Game</title>
+      <link>https://dev-abir.github.io/tags/tanks-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-abir.github.io/tags/tanks-game/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
